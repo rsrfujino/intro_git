@@ -2,5 +2,4 @@ Gitの練習をしていきます。
 aaaaaaa
 bbbbbb
 ccccc
-eeeeee
-
+git status
